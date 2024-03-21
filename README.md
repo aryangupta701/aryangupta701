@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 📑 I'm a student from Dehradun, India
+- 📑 Software Developer @CERN
 - 🔭 I'm an open-source enthusiast. I like to build stuff. 
 - 🌱 My GSoC project: 
   - [Browser Recorder OWASP ZAP](https://summerofcode.withgoogle.com/programs/2023/projects/lx6XL1Rd)
